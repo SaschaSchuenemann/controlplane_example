@@ -4,6 +4,6 @@ metadata:
   name: mybucket-controlplane-example-14323214213
 spec:
   forProvider:
-    region: eu-central-1
+    region: us-east-2
   providerConfigRef:
     name: default
